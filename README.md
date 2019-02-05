@@ -1,3 +1,1 @@
-dsasda
-conflict master
-conflict
+conflict delete
