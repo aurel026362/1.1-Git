@@ -1,2 +1,3 @@
 dsasda
+conflict master
 conflict
